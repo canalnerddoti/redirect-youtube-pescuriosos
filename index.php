@@ -1,4 +1,8 @@
-<html lang="en">
+<?php
+header("Location: https://www.youtube.com/channel/UCM9gZV948V2DVLLORkqn7Cg");
+die();
+?>
+<html lang="pt-BR">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
